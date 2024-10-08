@@ -1,0 +1,6 @@
+.venv
+downloaded.txt
+urls.txt
+*.mp3
+*.webm
+*.m4a
